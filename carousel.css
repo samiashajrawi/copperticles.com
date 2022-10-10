@@ -5,6 +5,12 @@
 body {
   padding-top: 5rem;
   color: #5a5a5a;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+footer {
+  margin-top: auto;
 }
 
 /* CUSTOMIZE THE CAROUSEL
